@@ -9,7 +9,7 @@
   "gpus": 0,
   "fetch": [
     {
-      "uri": "https://raw.githubusercontent.com/joerg84/dcos-101/master/app1/app1.py"
+      "uri": "https://raw.githubusercontent.com/akkomar/dcos-workshop-jotb/master/app1-add.py"
     }
   ],
   "container": {
